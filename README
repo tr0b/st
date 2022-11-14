@@ -1,6 +1,6 @@
-st - simple terminal
+st - simple terminal - tr0b fork
 --------------------
-st is a simple terminal emulator for X which sucks less.
+st is a simple terminal emulator for X which sucks less. This is my personal fork with its own configurations for my intended purposes.
 
 
 Requirements
